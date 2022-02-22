@@ -2,6 +2,7 @@
  CSS Index  
 ****************************
 
+
 01. Variables
 02. Typography
 03. Spacing
@@ -58,10 +59,10 @@
 
 
 /* Elements  */
-@import'elements/button';
+@import'elements/_button';
 @import'elements/accordion';
 @import'elements/section-title';
-@import'elements/banner';
+@import'elements/_banner';
 @import'elements/service';
 @import 'elements/modal';
 @import'elements/skill';
