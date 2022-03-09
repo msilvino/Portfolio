@@ -993,6 +993,7 @@ ol ul {
 
 .mt--50 {
   margin-top: 50px !important;
+  justify-content: center !important;
 }
 
 .mb--50 {
@@ -7453,61 +7454,61 @@ textarea:-ms-input-placeholder {
 [data-overlay="1"]:before,
 [data-black-overlay="1"]:before,
 [data-white-overlay="1"]:before {
-  opacity: 0.1;
+  opacity: 0.15;
 }
 
 [data-overlay="2"]:before,
 [data-black-overlay="2"]:before,
 [data-white-overlay="2"]:before {
-  opacity: 0.2;
+  opacity: 0.3;
 }
 
 [data-overlay="3"]:before,
 [data-black-overlay="3"]:before,
 [data-white-overlay="3"]:before {
-  opacity: 0.3;
+  opacity: 0.45;
 }
 
 [data-overlay="4"]:before,
 [data-black-overlay="4"]:before,
 [data-white-overlay="4"]:before {
-  opacity: 0.4;
+  opacity: 0.6;
 }
 
 [data-overlay="5"]:before,
 [data-black-overlay="5"]:before,
 [data-white-overlay="5"]:before {
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 [data-overlay="6"]:before,
 [data-black-overlay="6"]:before,
 [data-white-overlay="6"]:before {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 [data-overlay="7"]:before,
 [data-black-overlay="7"]:before,
 [data-white-overlay="7"]:before {
-  opacity: 0.7;
+  opacity: 1.05;
 }
 
 [data-overlay="8"]:before,
 [data-black-overlay="8"]:before,
 [data-white-overlay="8"]:before {
-  opacity: 0.8;
+  opacity: 1.2;
 }
 
 [data-overlay="9"]:before,
 [data-black-overlay="9"]:before,
 [data-white-overlay="9"]:before {
-  opacity: 0.9;
+  opacity: 1.35;
 }
 
 [data-overlay="10"]:before,
 [data-black-overlay="10"]:before,
 [data-white-overlay="10"]:before {
-  opacity: 1;
+  opacity: 1.5;
 }
 
 /*------------------------------
@@ -10923,6 +10924,7 @@ xclip
 .cd-headline.clip .cd-words-wrapper {
   overflow: hidden;
   vertical-align: middle;
+  justify-content: center;
 }
 
 .cd-headline.clip .cd-words-wrapper::after {
@@ -12891,7 +12893,7 @@ figcaption {
   }
 }
 .slide.slider-style-3 .slider-wrapper {
-  padding-top: 210px;
+  padding-top: 50px;
   display: flex;
   justify-content: space-between;
 }
@@ -14187,7 +14189,7 @@ div#featured-project-carousel {
   }
 }
 .rn-nav-list .nav-item {
-  flex-basis: 25%;
+  flex-basis: 33%;
   text-align: center;
   margin-top: 0;
 }
