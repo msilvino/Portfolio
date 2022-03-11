@@ -84,6 +84,10 @@
     margin-bottom: 0 !important;
 }
 
+.mt--50{
+    justify-content: center !important;
+}
+
 @for $i from 1 through 40 {
     .ptb--#{5 * $i} { padding: 5px *$i 0 !important;}
     .plr--#{5 * $i} { padding: 0 5px *$i !important;}
