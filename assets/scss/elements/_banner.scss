@@ -1035,10 +1035,10 @@
     }
 
     h1 {
-        font-size: 48px;
+        font-size: 90px;
         margin-bottom: 0;
         @media #{$sm-layout} {
-            font-size: 38px;
+            font-size: 55px;
             margin-bottom: 10px;
         }
     }
@@ -1240,13 +1240,13 @@
 }
 
 .fs--100{
-    font-size: 100px !important;
+    font-size: 100px;
 }
 .fs--100{
-    font-size: 90px !important;
+    font-size: 90px;
 }
 .lh--100{
-    line-height: 120px !important;
+    line-height: 120px;
 }
 
 

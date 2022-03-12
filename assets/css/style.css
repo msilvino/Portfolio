@@ -538,12 +538,12 @@ ol ul {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rn-section-gap {
-    padding: 80px 0;
+    padding: 40px 0;
   }
 }
 @media only screen and (max-width: 767px) {
   .rn-section-gap {
-    padding: 80px 0;
+    padding: 40px 0;
   }
 }
 
@@ -13412,12 +13412,12 @@ figcaption {
   }
 }
 .slider-style-6 h1 {
-  font-size: 48px;
+  font-size: 90px;
   margin-bottom: 0;
 }
 @media only screen and (max-width: 767px) {
   .slider-style-6 h1 {
-    font-size: 38px;
+    font-size: 55px;
     margin-bottom: 10px;
   }
 }
@@ -13618,15 +13618,15 @@ figcaption {
 }
 
 .fs--100 {
-  font-size: 100px !important;
+  font-size: 100px;
 }
 
 .fs--100 {
-  font-size: 90px !important;
+  font-size: 90px;
 }
 
 .lh--100 {
-  line-height: 120px !important;
+  line-height: 120px;
 }
 
 .fashion-designer-inner.model h1.title {
@@ -13747,6 +13747,7 @@ figcaption {
 @media only screen and (max-width: 767px) {
   .rn-service .inner .icon {
     margin-bottom: 10px;
+    text-align: center;
   }
 }
 .rn-service .inner .icon svg {
@@ -13766,6 +13767,7 @@ figcaption {
 @media only screen and (max-width: 767px) {
   .rn-service .inner .content .title {
     margin-bottom: 15px;
+    text-align: center;
   }
 }
 .rn-service .inner .content .title a {

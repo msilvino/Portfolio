@@ -42,6 +42,7 @@
 
             @media #{$sm-layout} {
                 margin-bottom: 10px;
+                text-align: center;
             }
 
             svg {
@@ -62,6 +63,7 @@
                 color: var(--color-lightn);
                 @media #{$sm-layout} {
                     margin-bottom: 15px;
+                    text-align: center;
                 }
                 a {
                     transition: var(--transition);
